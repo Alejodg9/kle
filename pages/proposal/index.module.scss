@@ -1,0 +1,120 @@
+
+.container{
+   padding:0rem;
+   padding-top:0;
+
+
+   .container_menu{
+   position: sticky;
+   top: 0px;
+   background-color: white;
+   padding:0.5rem 1rem;
+
+   }
+
+   .navBar{
+      display:flex;
+      flex-direction:row;
+      align-items: center;
+      align-content:center;
+      justify-content: space-between;
+      font-size:1.5rem;
+      max-width:900px;
+      padding:2rem;
+      margin:0 auto;
+ 
+
+      .title{
+         background-image: url(../../public/kalelight.png);
+         background-size: contain;
+         background-repeat: no-repeat;
+         background-position-x: center;
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         align-content: center;
+         justify-content: center;
+         justify-items: center;
+      }
+      p{
+         margin:0;
+         font-size:1rem;
+         padding:0;
+
+      }
+   }
+   .arrow_forward{
+      
+
+   }
+   .arrow_backwards{
+    
+   }
+
+.navMenu{
+   display: flex;
+   border-top:0.5px solid grey;
+   padding-top:0.5rem;
+   justify-content: space-between;
+   margin-bottom:1rem;
+   max-width:900px;
+   margin:0 auto;
+   :hover{
+      cursor: pointer;
+   }
+
+   span{
+      display:block;
+    
+
+   }
+}
+
+   .container_detail{
+      padding:0 1rem;
+      max-width:900px;
+      margin:0 auto;
+   }
+
+}
+
+.intro{
+   z-index:1000;
+   background-color:white;
+   height:100vh;
+   width:100%;
+   display:flex;
+   flex-direction:column;
+   align-content:center;
+   align-items:center;
+   justify-content:center;
+   justify-items:center;
+   background-image: url(../../public/kalelighter.png);
+   background-position-x:center;
+   background-repeat:no-repeat;
+   position:fixed;
+   top:0;
+   padding:2rem;
+
+   h2{
+      font-size:2rem;
+      display:inline;
+      margin:0;
+   }
+   p{
+      margin-bottom:4rem;
+      align-items:center;
+      text-align:center;
+   }
+
+   button{
+      border-radius:15px;
+      background-color:transparent;
+      border:1px solid grey;
+      padding:0.8rem;
+      margin-bottom:1rem;
+      
+   }
+
+
+}

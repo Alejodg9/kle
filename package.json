@@ -1,0 +1,27 @@
+{
+  "name": "kaleindex",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "framer-motion": "^4.1.17",
+    "next": "11.1.0",
+    "node-sass": "^5.0.0",
+    "react": "17.0.2",
+    "react-animate-on-scroll": "^2.1.5",
+    "react-device-detect": "^1.17.0",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.2.0",
+    "react-intersection-observer": "^8.32.0"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.0"
+  }
+}

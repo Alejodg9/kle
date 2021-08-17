@@ -1,0 +1,23 @@
+
+🟢agregar los links 
+🟢agergar iconos 
+🟢Redireccionar al dominio
+🟢Scroll snap
+🟢definir descipriones 
+🟢agregar el texto abajo del header mobile (alejo)
+🟢agregar flechita (alejo)
+
+hacer seccion de presupuesto (nacho)
+agregar footer "ya nos conocemos, pasemos de la idea a la accion"(alejo)
+🟢agregar el texto abajo del header mobile (alejo)
+agregar footer 
+agregar form 
+agregar pagina de greenhab
+
+
+
+
+
+
+
+
